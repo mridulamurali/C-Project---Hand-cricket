@@ -1,0 +1,26 @@
+Instructions on how to play the game:
+First, when you choose the option start game, you would be asked to enter your name first and the date on which you are playing next. Then, you proceed into the game.
+
+There are Three Parts to the Game
+
+1. The Toss :- The Toss is used to determine who gets to bat first and / or who gets to bowl first. For the Toss, the player (you in this case) will be asked to choose ODD or EVEN.
+If you think you would get an ODD number as the sum of your number (the number you select for the toss) and the computer's number(the random number selected by the computer), please choose ODD.
+If you think you would get an EVEN number as the sum of your number (the number you select for the toss) and the computer's number(the random number selected by the computer), please choose EVEN.
+After choosing, you would be asked to select a number for the Toss. Please enter your number then.
+If you are lucky, you may win the Toss. If not, sorry. If you win the Toss, you would be given the option to choose whether you want to bat or bowl first. But, if you lose the Toss,
+the computer chooses who bats or bowls first.Depending upon the Toss winner's choice, the game will proceed.
+
+2. Batting :-  One way to win this game is to score more than the computer. When you are batting enter the number that you like and press the enter button for the computer to play it's turn.
+Then, the number chosen by the computer is displayed. As you play, your score increases and is displayed. If both your number and the computer's number match, You are out!!
+If you attain the target before you get out by the computer, your batting turn comes to an end and you win!!
+
+3. Bowling :- The other way to win the game is by restricting the computer from attaining your score or more. When bowling, enter the number you like and press enter to proceed.
+Then, the computer chooses a number and it is displayed. If both the numbers are same, the computer loses. Otherwise, the number chosen by the computer adds to it's score and is displayed.
+If the computer attains the target before it gets out, your bowling turn comes to an end and you lose!
+
+Possible results:
+YOU WIN                   - Your score is more than the computer's score. You score more than the computer (when you bowl first) or you get the computer out before it attain your score (when you bat first)
+SORRY, YOU LOSE - Your score is less than the computer's score. You score less than the computer and could not attain it's score (when you bowl first) or the computer scores more than you (when you bat first)
+IT IS A DRAW           - When both the computer's score and your score is the same (This is very rare!!!)
+
+We hope you have understood the rules of the game. Have fun playing and we hope you always win.

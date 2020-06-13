@@ -1,0 +1,17 @@
+About The Game:
+Hand Cricket is usually a game played between two people or two groups of people. It is an emulation of real world cricket.
+Since many of us could not play Cricket outside in the ground, all the time when we were young, we came up with the game hand cricket.
+This game is widely popular among school Children in India, Sri Lanka and Pakistan. It is played through hand gestures.
+Each hand gesture signifies a number. Usually the numbers lie between one to six. Both the players (the bowler and the batsman), should make the gestures simultaneously.
+If the numbers (which the hand gesture signifies) gestured by both the bowler and the batsman match, the batsman is out.
+If not, then the number signified by the batsman's gesture gets added to his score. When one player gets out, their roles are switched.
+So both players get to play as the batsman as well as the bowler. The score set by the first person is the target to be beaten by the second person.
+Therefore the winner would be the person who is able to score the most. Just like in Cricket. Quite Simple.
+The game here is an attempt to capture the same feeling of playing Hand Cricket through a computer, where the gestures are replaced with keyboard inputs (numbers).
+
+Instructions               - It has the same rules as Hand Cricket but if you want further instructions on how to play the game, please choose the 'Instructions' option in the main menu.
+Start Game                 - Choose the 'Start Game' option to start playing the game.
+Filter record by date/Name - This option is used to filter previously stored game records (only if any) according to user choice (i.e. using the name or by using the date)
+Player records             - Used to view previously played player records in the same computer (if any).
+
+We hope you have fun. Enjoy!!
